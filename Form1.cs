@@ -1,8 +1,8 @@
 namespace ZavrsniRadSkola
 {
-    public partial class Form1 : Form
+    public partial class Form12 : Form
     {
-        public Form1()
+        public Form12()
         {
             InitializeComponent();
         }
